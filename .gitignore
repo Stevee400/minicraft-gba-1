@@ -1,9 +1,0 @@
-# binary
-/obj
-/bin
-
-# converted resources
-/src/res
-
-# release files
-/release
